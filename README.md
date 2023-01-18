@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @ClistennyLohran
-- 👀 I’m interested in React
-- 🌱 I’m currently learning JS, React, TS, Node.js
-- 💞️ I’m looking to collaborate on a Website
-- 📫 How to reach me:
+- 👋 Olá, estou so Clístenny Lohran
+- 👀 Atualmente bem interesado em React
+- 🌱 Trabalhando no meu jogo Money Clicker
+- 📫 Como falar comigo:
 
-<h3>⚡ Discord: Lohran#6633</h3>
+<h3>⚡ Discord: Lohran#0001</h3>
 <h3>⚡ LinkedIn: https://www.linkedin.com/in/clístennylohran/</h3>
 
-- My Project: https://www.moneyclicker.com.br/
-- Developed with React
+- Meu Projeto: https://www.moneyclicker.com.br/
+- Desenvolvido com React
