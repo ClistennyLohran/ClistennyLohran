@@ -2,7 +2,7 @@
 - 🌱 Desenvolvendo o Money Clicker 2
 - 📫 Como falar comigo:
 
-<h3>⚡ Meu Site: https://clistennylohran.github.io/Site-Pessoal/</h3>
+<h3>⚡ Meu Site: https://clistennylohran.github.io/Lohran/</h3>
 
 - Money Clicker 1: https://moneyclickerbr.netlify.app
 - Desenvolvido com React
