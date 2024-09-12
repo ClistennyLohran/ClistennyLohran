@@ -1,9 +1,8 @@
 - 👋 Olá, estou so Clístenny Lohran
-- 👀 Atualmente bem interesado em React
-- 🌱 Trabalhando no meu jogo Money Clicker
+- 🌱 Desenvolvendo o Money Clicker 2
 - 📫 Como falar comigo:
 
-<h3>⚡ LinkedIn: https://www.linkedin.com/in/clístennylohran/</h3>
+<h3>⚡ Meu Site: https://clistennylohran.github.io/Site-Pessoal/</h3>
 
-- Meu Projeto: https://moneyclickerbr.netlify.app
+- Money Clicker 1: https://moneyclickerbr.netlify.app
 - Desenvolvido com React
